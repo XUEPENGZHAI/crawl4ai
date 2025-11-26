@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    // Python 开发
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "ms-python.mypy-type-checker",
+    
+    // 通用工具
+    "editorconfig.editorconfig",
+    "ms-azuretools.vscode-docker",
+    "github.vscode-pull-request-github",
+    
+    // 文件格式支持
+    "tamasfe.even-better-toml",
+    "redhat.vscode-yaml",
+    
+    // Git 工具
+    "eamodio.gitlens",
+    "mhutchie.git-graph"
+  ]
+}

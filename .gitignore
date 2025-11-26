@@ -174,7 +174,7 @@ cython_debug/
 Crawl4AI.egg-info/
 Crawl4AI.egg-info/*
 crawler_data.db
-.vscode/
+# .vscode/ - 团队共享配置，不应忽略
 .tests/
 .test_pads/
 test_pad.py
